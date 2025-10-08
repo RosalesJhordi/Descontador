@@ -9,3 +9,7 @@ Route::get('/', function () {
 Route::get('Ventana', function () {
     return view('Ventana');
 });
+
+Route::get('Puerta', function (){
+    return view('Puerta');
+});

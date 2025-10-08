@@ -89,7 +89,7 @@
                 <span class="text-sm font-medium text-gray-700">Ventana</span>
             </a>
 
-            <a disabled
+            <a href="Puerta"
                 class="cursor-pointer mt-6 bg-gradient-to-br from-white via-blue-50 to-blue-100 rounded-xl shadow-md hover:shadow-xl transition-all duration-500 hover:scale-105 p-4 flex flex-col items-center justify-center space-y-2 w-32 h-32">
 
                 <!-- Icono -->

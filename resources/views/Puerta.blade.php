@@ -12,6 +12,6 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 @vite('resources/css/app.css')
 <body class="bg-gray-100 p-6 h-[100%]">
-    <livewire:app>
+    <livewire:puerta1>
 </body>
 </html>
